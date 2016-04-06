@@ -1,5 +1,6 @@
 %function for Temperature, Density, and Viscosity as a function of altitude
 function [Temperature, Density, Viscosity]=atmosphere(h) ; 
+% I could edit here... np... but would love to edit locally and run in Matlab as usual.
 R=287;       %given constant
 g=9.81;      %given gravity [m/s^2]
 
